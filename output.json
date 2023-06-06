@@ -1,0 +1,821 @@
+{
+  "items": [
+    {
+      "tags": [
+        "c\u002B\u002B",
+        "opencv",
+        "math",
+        "geometry"
+      ],
+      "owner": {
+        "account_id": 28112467,
+        "reputation": 17,
+        "user_id": 21480038,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxbLP_Afg2UFV9WdodyhDZrXqz-8BjHPtdhS_MaQ=k-s256",
+        "display_name": "m baku",
+        "link": "https://stackoverflow.com/users/21480038/m-baku"
+      },
+      "is_answered": true,
+      "view_count": 93,
+      "accepted_answer_id": 75832487,
+      "answer_count": 2,
+      "score": -2,
+      "last_activity_date": 1680266136,
+      "creation_date": 1679652798,
+      "last_edit_date": 1679660658,
+      "question_id": 75832352,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75832352/opencv-draw-circle-tangent-line-from-a-point",
+      "title": "opencv draw circle tangent line from a point"
+    },
+    {
+      "tags": [
+        "python",
+        "geometry",
+        "cartopy"
+      ],
+      "owner": {
+        "account_id": 9113975,
+        "reputation": 13,
+        "user_id": 6781624,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/-ijn5MivzmHA/AAAAAAAAAAI/AAAAAAAAHzw/kNtzgXEs0cg/photo.jpg?sz=256",
+        "display_name": "Jeriko",
+        "link": "https://stackoverflow.com/users/6781624/jeriko"
+      },
+      "is_answered": true,
+      "view_count": 2038,
+      "accepted_answer_id": 71063802,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1680182267,
+      "creation_date": 1644370806,
+      "last_edit_date": 1680182267,
+      "question_id": 71043013,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/71043013/draw-circle-with-longitude-latitude-and-radius-km-in-cartopy-of-python",
+      "title": "Draw circle with longitude, latitude and radius (km) in cartopy of python"
+    },
+    {
+      "tags": [
+        "c\u002B\u002B",
+        "3d",
+        "geo",
+        "osgearth"
+      ],
+      "owner": {
+        "account_id": 19765426,
+        "reputation": 43,
+        "user_id": 14473572,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/35a61bb17713fe421f4492e64c23ffa6?s=256\u0026d=identicon\u0026r=PG\u0026f=y\u0026so-version=2",
+        "display_name": "nick_redwill",
+        "link": "https://stackoverflow.com/users/14473572/nick-redwill"
+      },
+      "is_answered": false,
+      "view_count": 34,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1680091780,
+      "creation_date": 1680090996,
+      "last_edit_date": 1680091780,
+      "question_id": 75876884,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75876884/how-to-draw-circle-using-osgearthcirclenode",
+      "title": "How to draw circle using osgEarth::CircleNode?"
+    },
+    {
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "owner": {
+        "account_id": 20088406,
+        "reputation": 1820,
+        "user_id": 14729488,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/3DB5x.jpg?s=256\u0026g=1",
+        "display_name": "Ardeshir ojan",
+        "link": "https://stackoverflow.com/users/14729488/ardeshir-ojan"
+      },
+      "is_answered": true,
+      "view_count": 48,
+      "accepted_answer_id": 75666485,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1678218844,
+      "creation_date": 1678217012,
+      "question_id": 75666346,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75666346/draw-circle-inside-row-in-flutter-using-paint",
+      "title": "Draw Circle inside row in Flutter using Paint"
+    },
+    {
+      "tags": [
+        "android",
+        "kotlin",
+        "android-jetpack-compose"
+      ],
+      "owner": {
+        "account_id": 12977743,
+        "reputation": 127,
+        "user_id": 9381256,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=256",
+        "display_name": "alex",
+        "link": "https://stackoverflow.com/users/9381256/alex"
+      },
+      "is_answered": true,
+      "view_count": 1608,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1677324419,
+      "creation_date": 1645394047,
+      "last_edit_date": 1645410298,
+      "question_id": 71199145,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/71199145/jetpack-compose-draw-circle-with-pulsing-animation-view-doesn-t-want-to-go-of",
+      "title": "Jetpack compose draw circle with pulsing animation ( view doesn\u2019t want to go of screen )"
+    },
+    {
+      "tags": [
+        "java",
+        "swing",
+        "graphics",
+        "charts",
+        "geometry"
+      ],
+      "owner": {
+        "account_id": 8448328,
+        "reputation": 15,
+        "user_id": 6338103,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/bdb606e0206c829e94d4c2722f508fdd?s=256\u0026d=identicon\u0026r=PG\u0026f=y\u0026so-version=2",
+        "display_name": "MyNet",
+        "link": "https://stackoverflow.com/users/6338103/mynet"
+      },
+      "is_answered": false,
+      "view_count": 7880,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1676160075,
+      "creation_date": 1464300993,
+      "question_id": 37471945,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/37471945/how-to-draw-circle-using-java-awt-graphics",
+      "title": "How to draw circle using java.awt.Graphics?"
+    },
+    {
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "owner": {
+        "account_id": 4505050,
+        "reputation": 143,
+        "user_id": 3662633,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/37ce23d9c1a7f15d05e0e06322e75dc9?s=256\u0026d=identicon\u0026r=PG\u0026f=y\u0026so-version=2",
+        "display_name": "Rogerto",
+        "link": "https://stackoverflow.com/users/3662633/rogerto"
+      },
+      "is_answered": true,
+      "view_count": 148,
+      "accepted_answer_id": 75230482,
+      "answer_count": 1,
+      "score": 2,
+      "last_activity_date": 1674649498,
+      "creation_date": 1674620615,
+      "last_edit_date": 1674649498,
+      "question_id": 75229669,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75229669/how-to-draw-circle-with-4-lines-equal-distance-apart-using-drawline-and-drawci",
+      "title": "How to draw circle with 4 lines equal distance apart using drawLine() and drawCircle() in Flutter"
+    },
+    {
+      "tags": [
+        "android",
+        "android-layout",
+        "android-canvas",
+        "android-view"
+      ],
+      "owner": {
+        "account_id": 1560426,
+        "reputation": 7947,
+        "user_id": 1450401,
+        "user_type": "registered",
+        "accept_rate": 61,
+        "profile_image": "https://i.stack.imgur.com/AHNUg.jpg?s=256\u0026g=1",
+        "display_name": "edwin",
+        "link": "https://stackoverflow.com/users/1450401/edwin"
+      },
+      "is_answered": true,
+      "view_count": 65496,
+      "answer_count": 6,
+      "score": 28,
+      "last_activity_date": 1674457135,
+      "creation_date": 1389934653,
+      "last_edit_date": 1495540964,
+      "question_id": 21178193,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/21178193/android-draw-circle-with-text-inside",
+      "title": "Android : Draw Circle With Text Inside"
+    },
+    {
+      "tags": [
+        "javascript",
+        "leaflet"
+      ],
+      "owner": {
+        "account_id": 26550354,
+        "reputation": 59,
+        "user_id": 20179773,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/ALm5wu2ow4Ib7nYDVhwuKQp9XYTE5dmM8t-zh4Bu1yEG=k-s256",
+        "display_name": "kgh",
+        "link": "https://stackoverflow.com/users/20179773/kgh"
+      },
+      "is_answered": true,
+      "view_count": 160,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1671518482,
+      "creation_date": 1671506264,
+      "question_id": 74858226,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74858226/leaflet-js-javascript-listener-to-draw-circle-around-a-map",
+      "title": "leaflet js: javascript listener to draw circle around a map"
+    },
+    {
+      "tags": [
+        "python",
+        "math",
+        "vector",
+        "blender"
+      ],
+      "owner": {
+        "account_id": 6737203,
+        "reputation": 473,
+        "user_id": 5191553,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://i.stack.imgur.com/DiojU.jpg?s=256\u0026g=1",
+        "display_name": "Christoph M\u0026#252;ller",
+        "link": "https://stackoverflow.com/users/5191553/christoph-m%c3%bcller"
+      },
+      "is_answered": true,
+      "view_count": 58,
+      "accepted_answer_id": 74724559,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1670680808,
+      "creation_date": 1670363089,
+      "last_edit_date": 1670680808,
+      "question_id": 74709362,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74709362/get-direction-of-two-points-and-draw-circle-at-first-point",
+      "title": "get direction of two points and draw circle at first point"
+    },
+    {
+      "tags": [
+        "android",
+        "canvas"
+      ],
+      "owner": {
+        "account_id": 10195682,
+        "reputation": 61,
+        "user_id": 7527562,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/61b276e76363bbd56c3e5f7843ef46bc?s=256\u0026d=identicon\u0026r=PG\u0026f=y\u0026so-version=2",
+        "display_name": "Nicky",
+        "link": "https://stackoverflow.com/users/7527562/nicky"
+      },
+      "is_answered": true,
+      "view_count": 2252,
+      "accepted_answer_id": 42085753,
+      "answer_count": 4,
+      "score": 4,
+      "last_activity_date": 1670090669,
+      "creation_date": 1486457882,
+      "last_edit_date": 1486604813,
+      "question_id": 42085507,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/42085507/android-how-to-draw-circle-within-two-point",
+      "title": "Android: How to draw circle within two point?"
+    },
+    {
+      "tags": [
+        "c\u002B\u002B",
+        "math",
+        "unreal-engine4"
+      ],
+      "owner": {
+        "account_id": 16759461,
+        "reputation": 1,
+        "user_id": 12114597,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AAuE7mA3eAYyayHRzo27xM8JM9z3blCGLxrbUmMqrvTnVQ=k-s256",
+        "display_name": "Kelton Weigelt",
+        "link": "https://stackoverflow.com/users/12114597/kelton-weigelt"
+      },
+      "is_answered": false,
+      "view_count": 2269,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1667160849,
+      "creation_date": 1575018947,
+      "last_edit_date": 1575020147,
+      "question_id": 59101924,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/59101924/how-to-use-draw-circle-in-unreal",
+      "title": "How to use Draw Circle In Unreal"
+    },
+    {
+      "tags": [
+        "flutter",
+        "mapbox-gl"
+      ],
+      "owner": {
+        "account_id": 18068758,
+        "reputation": 1607,
+        "user_id": 13133893,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/af296639fd1d7eb7082df100bf51cdc5?s=256\u0026d=identicon\u0026r=PG\u0026f=y\u0026so-version=2",
+        "display_name": "wahyu",
+        "link": "https://stackoverflow.com/users/13133893/wahyu"
+      },
+      "is_answered": false,
+      "view_count": 404,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1667047942,
+      "creation_date": 1599792807,
+      "question_id": 63840183,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/63840183/how-to-draw-circle-in-mapbox-gl-flutter-using-radius",
+      "title": "How to draw circle in mapbox_gl flutter using radius"
+    },
+    {
+      "tags": [
+        "reactjs",
+        "typescript",
+        "webpack",
+        "mapbox-gl",
+        "mapbox-gl-draw"
+      ],
+      "owner": {
+        "account_id": 16498953,
+        "reputation": 29,
+        "user_id": 11920735,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-RNti61O7eao/AAAAAAAAAAI/AAAAAAAAAMg/430BzizA2Fc/photo.jpg?sz=256",
+        "display_name": "Michael Sebag",
+        "link": "https://stackoverflow.com/users/11920735/michael-sebag"
+      },
+      "is_answered": false,
+      "view_count": 144,
+      "answer_count": 0,
+      "score": 1,
+      "last_activity_date": 1662869871,
+      "creation_date": 1662869871,
+      "question_id": 73676782,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73676782/cant-resolve-fs-after-installing-mapbox-gl-draw-circle",
+      "title": "Can\u0026#39;t resolve \u0026#39;fs\u0026#39; after installing mapbox-gl-draw-circle"
+    },
+    {
+      "tags": [
+        "android",
+        "canvas",
+        "android-custom-view"
+      ],
+      "owner": {
+        "account_id": 9784206,
+        "reputation": 53,
+        "user_id": 7251042,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/09c81856f998f421b9e7efaf5671058f?s=256\u0026d=identicon\u0026r=PG\u0026f=y\u0026so-version=2",
+        "display_name": "MR AD",
+        "link": "https://stackoverflow.com/users/7251042/mr-ad"
+      },
+      "is_answered": false,
+      "view_count": 89,
+      "answer_count": 0,
+      "score": 1,
+      "last_activity_date": 1662118016,
+      "creation_date": 1662116227,
+      "question_id": 73581518,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73581518/draw-circle-at-the-end-of-arc-android-canvas",
+      "title": "Draw Circle at the end of Arc Android Canvas"
+    },
+    {
+      "tags": [
+        "python",
+        "python-3.x",
+        "object-detection",
+        "contour",
+        "edges"
+      ],
+      "owner": {
+        "account_id": 16144822,
+        "reputation": 9,
+        "user_id": 11654871,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/94455db05eacb678467c87ea30eb5a31?s=256\u0026d=identicon\u0026r=PG\u0026f=y\u0026so-version=2",
+        "display_name": "Muhammad Ahmed",
+        "link": "https://stackoverflow.com/users/11654871/muhammad-ahmed"
+      },
+      "is_answered": false,
+      "view_count": 249,
+      "answer_count": 1,
+      "score": -2,
+      "last_activity_date": 1661762430,
+      "creation_date": 1592821528,
+      "last_edit_date": 1661762430,
+      "question_id": 62512298,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62512298/how-to-draw-circle-after-contour-detection-has-been-performed",
+      "title": "How to draw circle after contour detection has been performed"
+    },
+    {
+      "tags": [
+        "python",
+        "tkinter",
+        "line",
+        "drawing"
+      ],
+      "owner": {
+        "account_id": 25718085,
+        "reputation": 103,
+        "user_id": 19514236,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/415ed004353238f8cdaf3f6befbd4a86?s=256\u0026d=identicon\u0026r=PG",
+        "display_name": "user87626",
+        "link": "https://stackoverflow.com/users/19514236/user87626"
+      },
+      "is_answered": true,
+      "view_count": 165,
+      "accepted_answer_id": 73333348,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1660343986,
+      "creation_date": 1660300089,
+      "last_edit_date": 1660343986,
+      "question_id": 73332720,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73332720/how-to-draw-circle-and-slanted-lines-using-tkinter",
+      "title": "How to draw circle and slanted lines using Tkinter"
+    },
+    {
+      "tags": [
+        "python",
+        "numpy",
+        "opencv",
+        "image-processing"
+      ],
+      "owner": {
+        "account_id": 12898195,
+        "reputation": 79,
+        "user_id": 9327906,
+        "user_type": "registered",
+        "profile_image": "https://lh6.googleusercontent.com/-uQP0F8nnJ3A/AAAAAAAAAAI/AAAAAAAAWfI/bl9bOe36jLM/photo.jpg?sz=256",
+        "display_name": "Muskan Bansal",
+        "link": "https://stackoverflow.com/users/9327906/muskan-bansal"
+      },
+      "is_answered": true,
+      "view_count": 2483,
+      "answer_count": 2,
+      "score": 2,
+      "last_activity_date": 1660229758,
+      "creation_date": 1527917013,
+      "last_edit_date": 1530711846,
+      "question_id": 50653773,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/50653773/dynamically-draw-circle-using-mouse-in-opencv",
+      "title": "Dynamically draw circle using mouse in openCV"
+    },
+    {
+      "tags": [
+        "python",
+        "opencv",
+        "image-processing",
+        "contour"
+      ],
+      "owner": {
+        "account_id": 6701473,
+        "reputation": 2298,
+        "user_id": 5167801,
+        "user_type": "registered",
+        "accept_rate": 46,
+        "profile_image": "https://i.stack.imgur.com/Cdcxo.jpg?s=256\u0026g=1",
+        "display_name": "Anum Sheraz",
+        "link": "https://stackoverflow.com/users/5167801/anum-sheraz"
+      },
+      "is_answered": true,
+      "view_count": 992,
+      "accepted_answer_id": 36348618,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1659718723,
+      "creation_date": 1457951410,
+      "last_edit_date": 1659718723,
+      "question_id": 35985072,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/35985072/trying-to-draw-circle-on-laser-pointer-opencv",
+      "title": "Trying to draw circle on Laser pointer, OpenCV"
+    },
+    {
+      "tags": [
+        "android",
+        "bitmap"
+      ],
+      "owner": {
+        "account_id": 25762713,
+        "reputation": 73,
+        "user_id": 19513356,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/dd5fcdda1da8771068b40c0ea21009e9?s=256\u0026d=identicon\u0026r=PG\u0026f=y\u0026so-version=2",
+        "display_name": "Davide",
+        "link": "https://stackoverflow.com/users/19513356/davide"
+      },
+      "is_answered": true,
+      "view_count": 130,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1659250445,
+      "creation_date": 1659178997,
+      "question_id": 73175044,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73175044/android-draw-circle-around-circular-bitmap",
+      "title": "Android draw circle around Circular Bitmap"
+    },
+    {
+      "tags": [
+        "imagesharp"
+      ],
+      "owner": {
+        "account_id": 25523882,
+        "reputation": 19,
+        "user_id": 19313285,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/fb2f8e5f1910337489abd670aa1f8cff?s=256\u0026d=identicon\u0026r=PG",
+        "display_name": "Walle",
+        "link": "https://stackoverflow.com/users/19313285/walle"
+      },
+      "is_answered": false,
+      "view_count": 239,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1655481636,
+      "creation_date": 1655481636,
+      "question_id": 72662002,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72662002/draw-circle-with-an-ellipsepolygon-in-imagesharp",
+      "title": "Draw circle with an EllipsePolygon in ImageSharp"
+    },
+    {
+      "tags": [
+        "javascript",
+        "geometry",
+        "mapbox",
+        "mapbox-gl",
+        "radius"
+      ],
+      "owner": {
+        "account_id": 25445706,
+        "reputation": 1,
+        "user_id": 19247938,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AATXAJxUZwbVuE03AsnAMZF_sKAAvbt7AyF3_FaKE6cE=k-s256",
+        "display_name": "Jason Bou Ghanem",
+        "link": "https://stackoverflow.com/users/19247938/jason-bou-ghanem"
+      },
+      "is_answered": false,
+      "view_count": 260,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1654741476,
+      "creation_date": 1654082844,
+      "last_edit_date": 1654089514,
+      "question_id": 72461051,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72461051/how-can-i-find-all-the-coordinates-in-a-mapbox-draw-circle-using-center-and-radi",
+      "title": "How can I find all the coordinates in a Mapbox Draw circle using center and radius?"
+    },
+    {
+      "tags": [
+        "python",
+        "python-3.x",
+        "python-imaging-library"
+      ],
+      "owner": {
+        "account_id": 25205462,
+        "reputation": 83,
+        "user_id": 19043899,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GijPMWlJEiYeWrP8w9yXOA95uDKbpn4zAH3fiSMcjk=k-s256",
+        "display_name": "\u0442\u043D\u03B1\u0442 \u04A9\u03C5\u03B9\u03B5\u0442 \u043A\u03B9\u1D05 \u03DF",
+        "link": "https://stackoverflow.com/users/19043899/%d1%82%d0%bd%ce%b1%d1%82-%d2%a9%cf%85%ce%b9%ce%b5%d1%82-%d0%ba%ce%b9%e1%b4%85-%cf%9f"
+      },
+      "is_answered": true,
+      "view_count": 219,
+      "accepted_answer_id": 72280135,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1652818463,
+      "creation_date": 1652716112,
+      "last_edit_date": 1652777319,
+      "question_id": 72261984,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72261984/draw-circle-with-pil-old-ones-doesnt-works",
+      "title": "Draw circle with PIL (Old ones doesn\u0026#39;t works)"
+    },
+    {
+      "tags": [
+        "d3.js",
+        "canvas"
+      ],
+      "owner": {
+        "account_id": 15685744,
+        "reputation": 372,
+        "user_id": 11318467,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/4A7KK.jpg?s=256\u0026g=1",
+        "display_name": "TaSvet",
+        "link": "https://stackoverflow.com/users/11318467/tasvet"
+      },
+      "is_answered": false,
+      "view_count": 234,
+      "answer_count": 1,
+      "score": -2,
+      "last_activity_date": 1652097285,
+      "creation_date": 1652084889,
+      "question_id": 72169026,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72169026/how-to-draw-circle-path-like-this-in-d3",
+      "title": "How to Draw circle path like this in d3?"
+    },
+    {
+      "tags": [
+        "python",
+        "kivy"
+      ],
+      "owner": {
+        "account_id": 17925133,
+        "reputation": 43,
+        "user_id": 18980744,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/4a202ffb18deafa482eecfd163bda23e?s=256\u0026d=identicon\u0026r=PG\u0026f=y\u0026so-version=2",
+        "display_name": "SU_Medicat",
+        "link": "https://stackoverflow.com/users/18980744/su-medicat"
+      },
+      "is_answered": true,
+      "view_count": 564,
+      "accepted_answer_id": 72119242,
+      "answer_count": 1,
+      "score": 2,
+      "last_activity_date": 1651696802,
+      "creation_date": 1651692122,
+      "question_id": 72118415,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72118415/kivy-draw-circle-to-middle-of-screen-on-startup",
+      "title": "Kivy: Draw circle to middle of screen on startup"
+    },
+    {
+      "tags": [
+        "android",
+        "android-recyclerview",
+        "android-canvas"
+      ],
+      "owner": {
+        "account_id": 22893488,
+        "reputation": 115,
+        "user_id": 17033309,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/1d6748a8f208830151c08c653795edc9?s=256\u0026d=identicon\u0026r=PG",
+        "display_name": "I\u0026#39;m Coder",
+        "link": "https://stackoverflow.com/users/17033309/im-coder"
+      },
+      "is_answered": false,
+      "view_count": 75,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1650520028,
+      "creation_date": 1650519723,
+      "last_edit_date": 1650520028,
+      "question_id": 71949437,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/71949437/how-to-draw-circle-on-top-of-recycler-view-items-upon-selection",
+      "title": "How to draw circle on top of recycler view items upon selection"
+    },
+    {
+      "tags": [
+        "c",
+        "output",
+        "bgi"
+      ],
+      "owner": {
+        "account_id": 2799782,
+        "reputation": 1307,
+        "user_id": 2408212,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/8fdcc856efca64aa9fedbcc5b70cf689?s=256\u0026d=identicon\u0026r=PG",
+        "display_name": "Xonshiz",
+        "link": "https://stackoverflow.com/users/2408212/xonshiz"
+      },
+      "is_answered": true,
+      "view_count": 247,
+      "accepted_answer_id": 32459844,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1649345994,
+      "creation_date": 1441719303,
+      "last_edit_date": 1649345994,
+      "question_id": 32459282,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/32459282/how-to-draw-circle-at-a-specific-area",
+      "title": "How to draw circle at a specific area?"
+    },
+    {
+      "tags": [
+        "c\u002B\u002B",
+        "openvg"
+      ],
+      "owner": {
+        "account_id": 13108178,
+        "reputation": 23,
+        "user_id": 9470212,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d09ccd1f82e1cb7c12571e965ee11f9f?s=256\u0026d=identicon\u0026r=PG\u0026f=y\u0026so-version=2",
+        "display_name": "Runner",
+        "link": "https://stackoverflow.com/users/9470212/runner"
+      },
+      "is_answered": false,
+      "view_count": 62,
+      "answer_count": 0,
+      "score": 1,
+      "last_activity_date": 1648921540,
+      "creation_date": 1648906267,
+      "last_edit_date": 1648921540,
+      "question_id": 71717977,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/71717977/openvg-draw-circle",
+      "title": "OpenVG draw circle"
+    },
+    {
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "owner": {
+        "account_id": 14190654,
+        "reputation": 4964,
+        "user_id": 10251414,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-mabUZXql6Ss/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rd8xuCsBWOYttvev76OEWj4v5uz4w/photo.jpg?sz=256",
+        "display_name": "Karel Debedts",
+        "link": "https://stackoverflow.com/users/10251414/karel-debedts"
+      },
+      "is_answered": false,
+      "view_count": 1777,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1648613347,
+      "creation_date": 1572448707,
+      "question_id": 58628584,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/58628584/dart-flutter-canvas-drawimagerect-draw-circle-image",
+      "title": "Dart (Flutter) canvas.drawImageRect: draw circle Image"
+    },
+    {
+      "tags": [
+        "html",
+        "css"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "user5013994"
+      },
+      "is_answered": false,
+      "view_count": 687,
+      "closed_date": 1645521253,
+      "answer_count": 6,
+      "score": 2,
+      "last_activity_date": 1645677495,
+      "creation_date": 1645509275,
+      "last_edit_date": 1645509529,
+      "question_id": 71216501,
+      "link": "https://stackoverflow.com/questions/71216501/need-to-draw-circle-with-css-like-this",
+      "closed_reason": "Duplicate",
+      "title": "Need to draw Circle with CSS like this"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 10000,
+  "quota_remaining": 9825
+}
